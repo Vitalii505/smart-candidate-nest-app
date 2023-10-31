@@ -1,0 +1,29 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build",
+			"detail": "nest build"
+		},
+		{
+			"type": "npm",
+			"script": "start",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: start",
+			"detail": "nest start"
+		},
+		{
+			"type": "npm",
+			"script": "resource",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: resource",
+			"detail": "nest g resource files"
+		}
+	]
+}

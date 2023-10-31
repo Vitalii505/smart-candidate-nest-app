@@ -1,0 +1,58 @@
+{
+    "thumbnail-to-letter": {
+        "id": 111,
+        "info_type": " ** -> ADD Parser Text from WebSite Djinni -->handle_web_parser.service.ts<-- (_cheerio_parser_servise--[array_all_inbox_from_my_DB]_) <- ** ",
+        "textAnswer": "Add that you are an IT developer and are now looking for a job. As an experienced job candidate, study the developer job posting and prepare a cover letter to accompany your application. When writing a letter, take into account my experience, job requirements, policies, products and values of the company. In addition, I will write some sample cover letters that I have already sent so that you can try to stick to my writing style and learn more about my orite and tech stack (in this case, your stack). \n 1) The job description from the ad on Jeannie's website, please read:"
+    },
+    "thumbnail-2-my-apply": {
+        "id": 222,
+        "info_type": " ** -> ADD THIS JSON EXEMPLES my apply to jobs <- ** ",
+        "textAnswer": "A few of my sawn letters,similar vacancies: \n "
+    },
+    "thumbnail-3-my-apply": {
+        "id": 333,
+        "info_type": " && -> NOT**add next texts marge**NOT---- [__Optional__] <- && ",
+        "textAnswer": "And now, based on the information received, form your cover letter to apply the vacancy ! \n "
+        },
+    "thumbnail-4-my-apply": {
+        "id": 444,
+        "info_type": " && -> NOT**add next texts marge and ---[DEFAULT-->ENGLISH]---**NOT---- [__Optional__] <- && ",
+        "textAnswer": "Also form a letter in Ukrainian language! /n "
+    },
+
+    "full-exemple-1": {
+        "id": 1,
+        "type": "full-stack",
+        "textAnswer": "Dear Team,\nI came across your vacancy and would like to apply. Your proposal matches my skill set, my passion for implementing business logic, and my experience in both back-end and front-end development.\n**_Tech Skills_**:\nI have practical 3 years of experience in software development.\nMy stack: JavaScript/TypeScript, Node.js (Express/Nest), Angular/React/Next/Electron, Dart and Flutter (strong junior level) HTML/CSS, Pug, SASS/LESS, Stylus CoffeeScript, Lodash, jQuery Docker, CI/CD, Redis, Cron,HTTP/HTTPS, REST API, WebSocket, Databases support (MongoDB/PostgreSQL/MySQL/SQLite), Experience with many AWS services (s3, cdk/cloudfront/cognito user pool, oauth2), Support of Cloud infrastructures (Firebase, Heroku, AWS CDK), OOP, SOLID, FP, Git, Jira. Linux/Mac/Microsoft systems and tools Postman/Swagger.\n**_Other additional skills_**:\n_(Mobile developmentDart/Flutter)\nI have 1 year of practical experience working with Flutter and I am very interested in mobile development using Flutter.\nMy Flutter development experience includes:\n• Working with REST APIs: I have practical experience interacting with REST APIs, which allows me to easily integrate data into applications.\n• Working with local storage: I have worked with SQLite databases, which enables data storage in a local database and ensures high app performance.\n• State management: I have experience using the Bloc state management.\n• Handling complex UI designs and basic animations: My skills allow me to create beautiful and interactive interfaces, as well as add simple animations to enhance the user experience.\n• Working with GitHub/GitLab and Jira: I have experience collaborating with teams through GitHub and use Jira for efficient project management.\n• Understanding basic principles of Clean Architecture: I understand the importance of good architecture for the stability and scalability of applications.\nI am also ready to provide additional value, if needed, in your projects from inception to release and in project estimates. I have experience working with Figma, which facilitates effective communication with designers and enables interface development in line with the design.\nI am ready to take on a new challenge and work together with you to achieve your goals and project success."
+    },
+    "full-exemple-2": {
+        "id": 2,
+        "type": "full-stack",
+        "textAnswer": ""
+    },
+    "back-exemple-3": {
+        "id": 3,
+        "type": "back-end",
+        "textAnswer": "Dear Codefinity Team,\n I read with great interest the job posting for a Back-End Engineer. I would like to express my interest and apply as your proposal combines my skills, technologies I'm interested in and my passion for implementing business logic, developing back-end systems. \n I have 2 years of development experience and am confident in my knowledge of NodeJS and JavaScript/Typescript. I have experience in designing and implementing system architecture, API and data models. I also have hands-on experience performing DevOps tasks to deploy and manage applications in production environments. I am good at using Docker, Redis, I am able to cover my code with unit tests using Jest, I am confident in Git. \n Also, I have database experience including Mongo and PostgreSQL. \n I have worked with many AWS services and have infrastructure management experience. \n When implementing Node.js solutions as frameworks, I've mostly used Express.js, but I also have some experience with Nest.js. \n When implementing solutions for user interfaces, I used React, NextJS, AngularJS in practice. I have a deep understanding of HTML, CSS, SCSS. \n It would be a great honor for me to join your team of professionals and contribute to the development of your business. \n I look forward to your feedback and the opportunity to discuss everything in more detail. I have attached my resume. \n Best regards, \n Vitalii \n"
+    }, 
+    "back-exemple-4": {
+        "id": 4,
+        "type": "back-end",
+        "textAnswer": ""
+    },
+    "back-exemple-5": {
+        "id": 5,
+        "type": "back-end",
+        "textAnswer": ""
+    },
+    "front-exemple-6": {
+        "id": 6,
+        "type": "front-end",
+        "textAnswer": ""
+    },
+    "front-exemple-7": {
+        "id": 7,
+        "type": "front-end",
+        "textAnswer": ""
+    } 
+}

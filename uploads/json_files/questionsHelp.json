@@ -1,0 +1,29 @@
+{
+    "id" : 1,
+    "jobId": 14,
+    "jobUrl" : "https://djinni.co/inbox/5123s2",
+    "userId" : 2,
+    "isAnswer" : false,
+    "dateUpdate": "17.07.2023",
+    "prefStacksBackEnd": ["Node", "Express", "Nexst", "AWS"],
+    "prefStacksFrontEnd": ["Angular" , "AngularJS", "React", "Redux", "Next.js", "Electron", "HTML", "CSS"],
+    "otherStacksPrefix": ["javascript", "typescript", "mongoDB", "postgreSQL", "Docker", "Redis", "Git", "Jira"],
+    "pisitionsList" : [
+        {
+            "id": 1,
+            "type": "full-stack",
+            "title": "Full Stack Devoper"
+
+        },
+        {
+            "id": 2,
+            "type": "back-end",
+            "title": "Back-end Devoper"
+        },
+        {
+            "id": 3,
+            "type": "front-end",
+            "title": "Frint-end Devoper"
+        }
+    ]
+}
